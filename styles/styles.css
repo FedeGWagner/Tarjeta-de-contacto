@@ -50,6 +50,9 @@ section{
     color: rgb(199, 40, 93);
     font-size: 40px;
 }
+.fa-address-book{
+    font-size: 35px;
+}
 
 .parrafo{
     margin-bottom: 20px;
@@ -74,3 +77,4 @@ h3{
     margin-left: 10px;
     /* border-radius: 50%; */
 }
+

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gomez Wagner ;Federico ;;;
+FN:Federico  Gomez Wagner 
+ORG:Arquitecto ;
+TEL;type=CELL;type=VOICE:11 3703-0577
+EMAIL;type=INTERNET;type=HOME:federico.wagner@outlook.com
+END:VCARD
