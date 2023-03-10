@@ -17,7 +17,7 @@ section{
 .card-box{
     position: relative;
     width: 350px;
-    height: 450px;
+    height: 550px;
     background: transparent;
     border: 2px solid rgba(255, 255, 255, 0.5);
     border-radius: 20px;
@@ -48,11 +48,11 @@ section{
 .social-links a{
     background: none;
     color: rgb(199, 40, 93);
-    font-size: 30px;
+    font-size: 40px;
 }
 
 h2{
-    font-size: 25px;
+    font-size: 28px;
     margin-top: 25px;
     margin-bottom: 20px;
 }
@@ -60,12 +60,12 @@ h2{
 h3{
     font-size: 15px;
     margin-bottom: 15px;
-    margin-top: 15px;
+    /* margin-top: 15px; */
     color: rgb(199, 40, 93);
 }
 
 .foto{
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
+    height: 200px;
+    width: 300px;
+    /* border-radius: 50%; */
 }
