@@ -17,7 +17,7 @@ section{
 .card-box{
     position: relative;
     width: 350px;
-    height: 550px;
+    height: 600px;
     background: transparent;
     border: 2px solid rgba(255, 255, 255, 0.5);
     border-radius: 20px;
@@ -51,11 +51,15 @@ section{
     font-size: 40px;
 }
 
-h2{
+.parrafo{
+    margin-bottom: 20px;
+}
+
+/* h2{
     font-size: 28px;
     margin-top: 25px;
     margin-bottom: 20px;
-}
+} */
 
 h3{
     font-size: 15px;
