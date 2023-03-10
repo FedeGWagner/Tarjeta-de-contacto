@@ -45,6 +45,10 @@ section{
     background: rgb(199, 40, 93);
 }
 
+#agenda{
+    /* background:rgb(199, 40, 93) ; */
+}
+
 .social-links a{
     background: none;
     color: rgb(199, 40, 93);
